@@ -1,0 +1,51 @@
+img{
+	height: auto;
+	width: 100%;
+}
+
+.section2font{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-title{
+	font-family: "Courier New", Courier, monospace;
+}
+
+.card-text{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.section3font{
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+.purple-bar{
+	background-color: purple;
+}
+
+.pink-bar{
+	background-color: pink;
+}
+
+.grey-bar{
+	background-color: grey;
+}
+
+.red-bar{
+	background-color: red;
+}
+/*<!-- .progress-bar{
+	background-color: 882D61;
+}
+
+.progress-bar{
+	background-color: 582A72;
+}
+
+.progress-bar{
+	background-color: 582A72;
+}*/
+
+.aboutmefont{
+	font-family: Verdana, Geneva, sans-serif;
+}
