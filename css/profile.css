@@ -1,0 +1,69 @@
+html {
+  background-color: #F7C9E9;
+}
+
+body {
+  background: none;
+  color: #3D1030;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+.navbar {
+  background: #5C3F53;
+  
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.display-3{
+	color: black;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-weight:bold;
+}
+
+.display-1{
+	color: black;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-weight:bold;
+	font-size: 50px
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+/* Additional stuff for index.html page */
+.jumbotron {
+  background-image: url(https://cdn.pixabay.com/photo/2020/01/26/11/46/paper-flower-background-4794429__340.jpg);
+  background-size: cover;
+  color: white;
+}
